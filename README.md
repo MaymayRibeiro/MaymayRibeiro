@@ -11,10 +11,7 @@
   <a href="https://instagram.com/mayara.m.ribeiro" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <div>
   
-<div align="left">
- <a href="https://github.com/MayaraMRibeiro">
- <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraMRibeiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   
 
   
