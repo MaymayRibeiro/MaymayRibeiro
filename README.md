@@ -1,7 +1,5 @@
 ## Olá! Sou Mayara! 👋   
 - 👩‍🎓 Atualmente estudo Análise e Desenvolvimento de Sistemas 
-- 📈 Estou em transição de carreira. Hoje sou Pedagoga de Séries Iniciais, 
- mas sou apaixonada por códigos
 - 📚 Tenho conhecimento em JavaScript, HTML, CSS, Node, Python
 - 💻 GitHub em construção
 ##
