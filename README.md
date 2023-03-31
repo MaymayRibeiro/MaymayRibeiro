@@ -1,7 +1,22 @@
-## Olá! Sou Mayara! 👋   
-- 👩‍🎓 Atualmente estudo Análise e Desenvolvimento de Sistemas 
-- 📚 Tenho conhecimento em JavaScript, HTML, CSS, Node, Python
-- 💻 GitHub em construção
+## Olá! Sou Mayara! 👩   
+Em 2015 me formei em Pedagogia e apartir de 2019 atuei por 4 anos em escola de Educação Básica como Professora e Pedagoga. Em 2020 fiz alguns cursos voltados para Programação nas linguagens Python, Java, JS e em 2022 iniciei Tecnólogo em Análise e Desenvolvimento de Sistemas. 
+Atualmente estou no 2º período do tecnólogo de 2 anos e estou me aprofundando na linguagem NodeJS. Busco oportunidade de ingressar no mercado de trabalho de TI.
+
+Nesses anos de profissão adquiri habilidades que podem acrescentar na minha nova profissão. São elas:
+-  Atendimento e negociação com clientes; 
+- Agilidade em dominar vários programas de gerencimento educacional como o Totvs, usar o Windows, o Linux e o pacote Office Microsoft e do Linux;
+- Gerenciamento de funcionários;
+- Confecção de diversos documentos oficiais como Atas de Reuniões, Declarações, Históricos, Ofícios, diversas tabelas;
+- Falar para grandes públicos e ensinar;
+- Desenvolvimento e implantação de metodologias para melhor rendimento dos funcionários e aprendizagens de crianças.
+
+Conhecimentos na áres de TI:
+- Metodologias ágeis (SCRUM);
+- Modelagem de dados;
+- Lógica computacional;
+- Análise Orientada a Objetos (PU e diagramas);
+- Linguagens: NodeJS, Java, JS.
+- Bootstrap, sequelize, CSS, Mysql, express
 ##
 <div>
   <a href = "mailto:mmribeiroes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
